@@ -1,0 +1,30 @@
+
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+
+p {
+    text-align: center;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.red {
+    background-color:#FF3333;
+}
+
+.cyan{
+    background-color: #15EFE8;
+}
+
+.green{
+    background-color: #61FF33;
+}
+
+.purple{
+    background-color: #AE33FF;
+}
